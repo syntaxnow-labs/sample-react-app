@@ -72,7 +72,3 @@ export default defineConfig([
 ])
 ```
 # sample-react-app
-
-
-
-
